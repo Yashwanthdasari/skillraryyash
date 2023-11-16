@@ -10,6 +10,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.Select;
 //yeah!....The Test is success..
 //hello yashwanth------>>>>>>>>>>>>> pull operation was done 
+//if  we want to update the changes in local repository we have to  pull the project in working directory 
+//which we have made changes in the github code
 public class dropdown1 {
 
 	public static void main(String[] args) throws InterruptedException {
